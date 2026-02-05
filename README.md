@@ -82,8 +82,5 @@ If you parallelize sweeps, use `parallel_submit_slurm.sh` and `parallelize.sh` a
 ## Citation
 
 If you use this code, please cite the associated thesis/paper:
-- *Add your thesis/paper citation here.*
+- https://theses.lib.sfu.ca/show/8852
 
-## License
-
-Choose a license before publishing (MIT/BSD-3-Clause are common for academic code).
